@@ -1,0 +1,12 @@
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\bin\Debug\net8.0\MenuItem.cs
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\bin\Debug\net8.0\Domain.dll
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.dll
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Learning\FPT\2024_Semester-2\PRN212_Tuan\Lab2\HighlandCoffee\Domain\obj\Debug\net8.0\ref\Domain.dll
